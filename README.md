@@ -10,3 +10,12 @@ git push
 git pull
 git checkout xxx
 
+ps aux | grep xxx
+ps -ef | grep xxx
+sudo brew install xxx
+sudo brew cask install xxx 
+sudo find / -name xxx
+
+file:->
+esc + :wq  -> save
+shift + :q -> no changed quit
